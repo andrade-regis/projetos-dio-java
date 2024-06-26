@@ -1,12 +1,14 @@
 package regis.primeiraSemana;
 
 public class Boletim {
+    
     public static void main(String[] args){
         // System.out.println(Resultado(4));
         // RetornoOperadores(15, 47);
-        RetornoTernário();
-    }
+        // RetornoTernário();
 
+
+    }
 
 
     private static void RetornoTernário(){
